@@ -1,0 +1,20 @@
+{
+  "name": "@evolution-labs/translations",
+  "version": "1.0.0",
+  "description": "Open Source translations for Evolution Labs DAPP",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:darwinia-evolution-labs/translations.git"
+  },
+  "keywords": [
+    "evolution",
+    "labs",
+    "land",
+    "dapp",
+    "translation",
+    "i18n",
+    "language"
+  ],
+  "author": "wnepnq",
+  "license": "ISC"
+}
