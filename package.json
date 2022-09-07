@@ -6,6 +6,9 @@
     "type": "git",
     "url": "git@github.com:darwinia-evolution-labs/translations.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "keywords": [
     "evolution",
     "labs",
