@@ -109,7 +109,7 @@
   "page.contribute.translations.credits": "Credits for this translation: wnepnq (0x75d56B0103ea3b596D344e153CC89012aF3bD22A).",
   "page.contribute.translations.header": "Translations",
   "page.contribute.translations.introduction": "If you want to see Evolution Labs translated in your native language or any other language that you know, you can contribute by joining the translation project:",
-  "page.contribute.translations.link": "POEditor Translation Project",
+  "page.contribute.translations.link": "Transifex Translation Project",
   "page.features.apostleInfo.button.go": "Go",
   "page.features.apostleInfo.header": "Apostle information",
   "page.features.apostleInfo.instructions": "Copy and paste the apostle's ID or token ID in the field above and click the button.",
